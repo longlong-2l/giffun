@@ -19,12 +19,12 @@
 
 ## 屏幕截图
 
-<img src="screenshots/screenshot1.gif" width="25%" />
-<img src="screenshots/screenshot2.gif" width="25%" />
-<img src="screenshots/screenshot3.gif" width="25%" />
-<img src="screenshots/screenshot4.png" width="25%" />
-<img src="screenshots/screenshot5.png" width="25%" />
-<img src="screenshots/screenshot6.png" width="25%" />
+<img src="screenshots/screenshot1.gif" width="20%" />
+<img src="screenshots/screenshot2.gif" width="20%" />
+<img src="screenshots/screenshot3.gif" width="20%" />
+<img src="screenshots/screenshot4.png" width="20%" />
+<img src="screenshots/screenshot5.png" width="20%" />
+<img src="screenshots/screenshot6.png" width="20%" />
 
 
 ## License
